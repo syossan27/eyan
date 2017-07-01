@@ -1,0 +1,27 @@
+hash: f284e8f630fe48ecea03a06ba33b5960b243a58ddc02b3f526169d0acc7294cf
+updated: 2017-07-01T16:42:34.62904447+09:00
+imports:
+- name: github.com/cznic/b
+  version: 6955404bf550e1eae1bf83121739078b027f4547
+  repo: https://github.com/cznic/b
+- name: github.com/golang/mock
+  version: 93f6609a15b7de76bd49259f1f9a6b58df358936
+  repo: https://github.com/golang/mock
+- name: github.com/golang/protobuf
+  version: 6a1fa9404c0aebf36c879bc50152edcc953910d2
+- name: github.com/samuel/go-zookeeper
+  version: 1d7be4effb13d2d908342d349d71a284a7542693
+  repo: https://github.com/samuel/go-zookeeper
+- name: github.com/Sirupsen/logrus
+  version: 7dd06bf38e1e13df288d471a57d5adbac106be9e
+- name: github.com/sirupsen/logrus
+  version: ""
+- name: github.com/tsuna/gohbase
+  version: af910652e552060bac746a8d0aa351a186ea994d
+- name: gopkg.in/airbrake/gobrake.v2
+  version: 668876711219e8b0206e2994bf0a59d889c775aa
+  repo: https://gopkg.in/airbrake/gobrake.v2
+- name: gopkg.in/gemnasium/logrus-airbrake-hook.v2
+  version: e928b033a891c0175fb643d5aa0779e86325eb12
+  repo: https://gopkg.in/gemnasium/logrus-airbrake-hook.v2
+devImports: []
